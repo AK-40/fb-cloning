@@ -35,13 +35,33 @@ os.system('clear')
 logo = ("""
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗                           ___   _   _ _____ _____ _   _ 
                                                                                                                     
-      db        `7MMF'`7MMM.     ,MMF'`7MMF'`7MM"""Mq.      
-     ;MM:         MM    MMMb    dPMM    MM    MM   `MM.     
-    ,V^MM.        MM    M YM   ,M MM    MM    MM   ,M9      
-   ,M  `MM        MM    M  Mb  M' MM    MM    MMmmdM9       
-   AbmmmqMA       MM    M  YM.P'  MM    MM    MM  YM.       
-  A'     VML (O)  MM    M  `YM'   MM    MM    MM   `Mb.     
-.AMA.   .AMMA.Ymmm9   .JML. `'  .JMML..JMML..JMML. .JMM.    
+      
+                                                                                          
+                                                                                          
+               AAA                jjjj                           iiii                     
+              A:::A              j::::j                         i::::i                    
+             A:::::A              jjjj                           iiii                     
+            A:::::::A                                                                     
+           A:::::::::A          jjjjjjj   mmmmmmm    mmmmmmm   iiiiiiirrrrr   rrrrrrrrr   
+          A:::::A:::::A         j:::::j mm:::::::m  m:::::::mm i:::::ir::::rrr:::::::::r  
+         A:::::A A:::::A         j::::jm::::::::::mm::::::::::m i::::ir:::::::::::::::::r 
+        A:::::A   A:::::A        j::::jm::::::::::::::::::::::m i::::irr::::::rrrrr::::::r
+       A:::::A     A:::::A       j::::jm:::::mmm::::::mmm:::::m i::::i r:::::r     r:::::r
+      A:::::AAAAAAAAA:::::A      j::::jm::::m   m::::m   m::::m i::::i r:::::r     rrrrrrr
+     A:::::::::::::::::::::A     j::::jm::::m   m::::m   m::::m i::::i r:::::r            
+    A:::::AAAAAAAAAAAAA:::::A    j::::jm::::m   m::::m   m::::m i::::i r:::::r            
+   A:::::A             A:::::A   j::::jm::::m   m::::m   m::::mi::::::ir:::::r            
+  A:::::A               A:::::A  j::::jm::::m   m::::m   m::::mi::::::ir:::::r            
+ A:::::A                 A:::::A j::::jm::::m   m::::m   m::::mi::::::ir:::::r            
+AAAAAAA                   AAAAAAAj::::jmmmmmm   mmmmmm   mmmmmmiiiiiiiirrrrrrr            
+                                 j::::j                                                   
+                       jjjj      j::::j                                                   
+                      j::::jj   j:::::j                                                   
+                      j::::::jjj::::::j                                                   
+                       jj::::::::::::j                                                    
+                         jjj::::::jjj                                                     
+                            jjjjjj                                                        
+    
                                                                                                                                                                                                                                                                                                                                                                               
 \033[0;92m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝               \033[0;92m
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
